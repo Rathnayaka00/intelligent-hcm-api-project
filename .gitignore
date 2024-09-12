@@ -1,0 +1,6 @@
+__pycache__/
+routes/__pycache__/
+cadentials.yaml
+t.json
+google.yaml
+cv_parsing_model
